@@ -12,67 +12,54 @@
   <a href="mailto:allen05irwin@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
-<br>
+<br><br>
 
-<!-- COMPLEX MULTI-COLUMN LAYOUT -->
-<table width="100%" border="0">
-  <tr>
-    <!-- LEFT COLUMN: ABOUT & SKILLS -->
-    <td width="50%" valign="top">
-      <h3 align="center">✦ 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 ✦</h3>
-      <p>
-        I am an AIML Engineering student from Bengaluru, deeply fascinated by the intersection of <b>Artificial Intelligence, Data Structures, and Web3</b>. I thrive on engineering clean, scalable systems and training models that solve real-world problems.
-      </p>
-      <ul>
-        <li>🚀 <b>Currently Building:</b> GenAI Agents & Web3 Tooling</li>
-        <li>🧠 <b>Currently Learning:</b> TensorFlow, Docker, Advanced DSA</li>
-        <li>🤝 <b>Looking to Collab:</b> High-impact Open Source AI projects</li>
-      </ul>
-      <h3 align="center">✦ 𝚃𝚎𝚌𝚑 𝙰𝚛𝚜𝚎𝚗𝚊𝚕 ✦</h3>
-      <div align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=py,cpp,c,java,html,css" /><br><br>
-          <img src="https://skillicons.dev/icons?i=tensorflow,docker,aws,gcp,mysql,git" />
-        </a>
-      </div>
-    </td>
-    
-    <!-- RIGHT COLUMN: TROPHIES & STATS -->
-    <td width="50%" valign="top">
-      <h3 align="center">✦ 𝙶𝚒𝚝𝙷𝚞𝚋 𝙴𝚡𝚌𝚎𝚕𝚕𝚎𝚗𝚌𝚎 ✦</h3>
-      <div align="center">
-        <!-- Trophies (Highly stable API) -->
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-          <img src="https://github-profile-trophy.vercel.app/?username=allen-irwin&theme=radical&column=3&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies" />
-        </a>
-      </div>
-      <br>
-      <div align="center">
-        <!-- Fallback Stats Card with a neon theme -->
-        <img src="https://github-readme-stats.vercel.app/api?username=allen-irwin&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7DF9FF&text_color=9FA6B2&icon_color=7DF9FF" alt="GitHub Stats" width="90%"/>
-      </div>
-    </td>
-  </tr>
-</table>
+### ✦ 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 ✦
+I am an AIML Engineering student from Bengaluru, deeply fascinated by the intersection of **Artificial Intelligence, Data Structures, and Web3**. I thrive on engineering clean, scalable systems and training AI models that solve complex, real-world problems.
 
-<br>
+- 🚀 **Currently Building:** GenAI Agents & Web3 Tooling
+- 🧠 **Currently Learning:** TensorFlow, Docker, Advanced DSA
+- 🤝 **Looking to Collab:** High-impact Open Source AI repositories
 
-<!-- THE GITHUB SNAKE ANIMATION -->
-<h3 align="center">✦ 𝙲𝚘𝚍𝚎 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗𝚜 ✦</h3>
+---
+
+### ✦ 𝚃𝚎𝚌𝚑 𝙰𝚛𝚜𝚎𝚗𝚊𝚕 ✦
 <div align="center">
-  <p><i>Watch the snake consume my contributions...</i></p>
-  <!-- NOTE: You must set up the GitHub Action for this to work. See instructions below! -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/allen-irwin/allen-irwin/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/allen-irwin/allen-irwin/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/allen-irwin/allen-irwin/output/github-contribution-grid-snake.svg">
-  </picture>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,c,java,html,css" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=tensorflow,docker,aws,gcp,mysql,git" />
+  </a>
 </div>
 
+---
+
+### ✦ 𝙶𝚒𝚝𝙷𝚞𝚋 𝙴𝚡𝚌𝚎𝚕𝚕𝚎𝚗𝚌𝚎 ✦
+
+<div align="center">
+  <!-- Highly Stable Activity Graph (Works without setup) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=allen-irwin&bg_color=0D1117&color=7DF9FF&line=7DF9FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Allen's Activity Graph"/>
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Trophies API (Fast & Reliable) -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=allen-irwin&theme=radical&column=6&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies" />
+  </a>
+</div>
+
+---
+
 <!-- MINIMALIST FOOTER -->
-<hr style="border: 1px solid #7DF9FF;">
 <p align="center">
   <img src="https://img.shields.io/badge/Bengaluru%20%7C%20India-0D1117?style=flat-square&logo=google-maps&logoColor=EA4335" alt="Location" />
   <br>
   <i>Forging intelligence pixel by pixel.</i>
 </p>
+
+<!-- FOOTER WAVE -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
+</div>
