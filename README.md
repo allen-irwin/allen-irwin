@@ -2,7 +2,7 @@
 
 </p>
 
-<h1 align="center">Hi there, I'm Allen Irwin 👋</h1>
+<h1 align="center">Hi there, I'm A Allen Irwin 👋</h1>
 <h3 align="center">A Passionate AIML Engineering Student from Bengaluru, India </h3>
 
 ---
