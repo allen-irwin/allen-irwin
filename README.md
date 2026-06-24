@@ -37,17 +37,15 @@ I am an AIML Engineering student from Bengaluru, deeply fascinated by the inters
 ### ✦ 𝙶𝚒𝚝𝙷𝚞𝚋 𝙴𝚡𝚌𝚎𝚕𝚕𝚎𝚗𝚌𝚎 ✦
 
 <div align="center">
-  <!-- Highly Stable Activity Graph (Works without setup) -->
+  <!-- Highly Stable Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=allen-irwin&bg_color=0D1117&color=7DF9FF&line=7DF9FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Allen's Activity Graph"/>
 </div>
 
 <br>
 
 <div align="center">
-  <!-- Trophies API (Fast & Reliable) -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=allen-irwin&theme=radical&column=6&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies" />
-  </a>
+  <!-- Highly Stable Streak Stats (Heroku Hosted) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allen-irwin&theme=radical&hide_border=true&background=0D1117&ring=7DF9FF&fire=7DF9FF&currStreakNum=FFFFFF&currStreakLabel=7DF9FF&sideNums=FFFFFF&sideLabels=9FA6B2&dates=9FA6B2" alt="GitHub Streak" width="80%" />
 </div>
 
 ---
